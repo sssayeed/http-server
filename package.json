@@ -1,0 +1,25 @@
+{
+  "name": "httpserverv1",
+  "version": "1.0.0",
+  "description": "oh boy, first http server! yay?",
+  "main": "printMessages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sssayeed/http-server.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "sssayeed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sssayeed/http-server/issues"
+  },
+  "homepage": "https://github.com/sssayeed/http-server#readme",
+  "dependencies": {
+    "cities": "^2.0.0"
+  }
+}
